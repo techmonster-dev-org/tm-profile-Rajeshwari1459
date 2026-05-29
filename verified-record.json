@@ -1,0 +1,16 @@
+{
+  "student": "Rajeshwari1459",
+  "generatedAt": "2026-05-29T19:36:44.3756918Z",
+  "verifiedBy": "techmonster-dev",
+  "tracks": [
+    {
+      "track": "frontend",
+      "trackTitle": "Frontend Engineering",
+      "progressPct": 0,
+      "status": "on-track",
+      "verifiedCount": 0,
+      "detailUrl": "./frontend/verified-record.json"
+    }
+  ],
+  "manualEntries": []
+}
