@@ -1,15 +1,23 @@
 {
   "student": "Rajeshwari1459",
-  "generatedAt": "2026-06-11T15:02:02.4300061Z",
+  "generatedAt": "2026-06-11T20:33:52.9573174Z",
   "verifiedBy": "techmonster-dev",
   "tracks": [
     {
       "track": "frontend",
       "trackTitle": "Frontend Engineering",
+      "progressPct": 1,
+      "status": "on-track",
+      "verifiedCount": 1,
+      "detailUrl": "./frontend/verified-record.json"
+    },
+    {
+      "track": "frontend-advanced",
+      "trackTitle": "Frontend Advanced — Next.js",
       "progressPct": 0,
       "status": "on-track",
       "verifiedCount": 0,
-      "detailUrl": "./frontend/verified-record.json"
+      "detailUrl": "./frontend-advanced/verified-record.json"
     }
   ],
   "manualEntries": []
