@@ -6,13 +6,14 @@
 
 | Track | Progress | Status | Detail |
 |---|---|---|---|
-| Frontend Engineering | [░░░░░░░░░░░░░░░] 0% | 🔵 On Track | [→ Full breakdown](./frontend/README.md) |
+| Frontend Engineering | [░░░░░░░░░░░░░░░] 1% | 🔵 On Track | [→ Full breakdown](./frontend/README.md) |
+| Frontend Advanced — Next.js | [░░░░░░░░░░░░░░░] 0% | 🔵 On Track | [→ Full breakdown](./frontend-advanced/README.md) |
 
 ## Recent Verified Projects
 
 | Track | Project | Reviewed | |
 |---|---|---|---|
-_No verified projects yet — check back soon._
+| Frontend Engineering | Simple Tailwind page | 2026-06-11 | ✅  |
 
 ## How This Profile Is Verified
 
