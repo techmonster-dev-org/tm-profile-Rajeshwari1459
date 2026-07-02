@@ -1,20 +1,19 @@
 # Rajeshwari1459 — Verified Developer Profile
 
-> Certified by TechMonster · Profile updated 2026-07-01
+> Certified by TechMonster · Profile updated 2026-07-02
 
 ## Tracks
 
 | Track | Progress | Status | Detail |
 |---|---|---|---|
 | Frontend Engineering | [░░░░░░░░░░░░░░░] 1% | 🔵 On Track | [→ Full breakdown](./frontend/README.md) |
-| Frontend Advanced — Next.js | [░░░░░░░░░░░░░░░] 1% | 🔵 On Track | [→ Full breakdown](./frontend-advanced/README.md) |
+| Frontend Advanced — Next.js | [░░░░░░░░░░░░░░░] 0% | 🔵 On Track | [→ Full breakdown](./frontend-advanced/README.md) |
 | Python Core (Beginner to Advanced) | [░░░░░░░░░░░░░░░] 0% | 🔵 On Track | [→ Full breakdown](./python-core/README.md) |
 
 ## Recent Verified Projects
 
 | Track | Project | Reviewed | |
 |---|---|---|---|
-| Frontend Advanced — Next.js | Create an axios instance with interceptors, error handling, and base URL configuration | 2026-07-01 | ✅ [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend-advanced/issues/43) |
 | Frontend Engineering | Simple Tailwind page | 2026-06-11 | ✅  |
 
 ## How This Profile Is Verified
