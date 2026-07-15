@@ -1,20 +1,19 @@
 # Rajeshwari1459 — Verified Developer Profile
 
-> Certified by TechMonster · Profile updated 2026-07-14
+> Certified by TechMonster · Profile updated 2026-07-15
 
 ## Tracks
 
 | Track | Progress | Status | Detail |
 |---|---|---|---|
 | Frontend Engineering | [░░░░░░░░░░░░░░░] 1% | 🔵 On Track | [→ Full breakdown](./frontend/README.md) |
-| Frontend Advanced — Next.js | [░░░░░░░░░░░░░░░] 1% | 🔵 On Track | [→ Full breakdown](./frontend-advanced/README.md) |
+| Frontend Advanced — Next.js | [░░░░░░░░░░░░░░░] 0% | 🔵 On Track | [→ Full breakdown](./frontend-advanced/README.md) |
 | Python Core (Beginner to Advanced) | [░░░░░░░░░░░░░░░] 0% | 🔵 On Track | [→ Full breakdown](./python-core/README.md) |
 
 ## Recent Verified Projects
 
 | Track | Project | Reviewed | |
 |---|---|---|---|
-| Frontend Advanced — Next.js | Implement draft saving functionality with debouncing | 2026-07-14 | ✅ [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend-advanced/issues/69) |
 | Frontend Engineering | Simple Tailwind page | 2026-06-11 | ✅  |
 
 ## How This Profile Is Verified
