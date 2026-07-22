@@ -1,19 +1,22 @@
 # Rajeshwari1459 — Verified Developer Profile
 
-> Certified by TechMonster · Profile updated 2026-07-21
+> Certified by TechMonster · Profile updated 2026-07-22
 
 ## Tracks
 
 | Track | Progress | Status | Detail |
 |---|---|---|---|
 | Frontend Engineering | [░░░░░░░░░░░░░░░] 1% | 🔵 On Track | [→ Full breakdown](./frontend/README.md) |
-| Frontend Advanced — Next.js | [░░░░░░░░░░░░░░░] 0% | 🔵 On Track | [→ Full breakdown](./frontend-advanced/README.md) |
+| Frontend Advanced — Next.js | [░░░░░░░░░░░░░░░] 3% | 🔵 On Track | [→ Full breakdown](./frontend-advanced/README.md) |
 | Python Core (Beginner to Advanced) | [░░░░░░░░░░░░░░░] 0% | 🔵 On Track | [→ Full breakdown](./python-core/README.md) |
 
 ## Recent Verified Projects
 
 | Track | Project | Reviewed | |
 |---|---|---|---|
+| Frontend Advanced — Next.js | Create card layout component | 2026-07-22 | ✅ [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend-advanced/issues/87) |
+| Frontend Advanced — Next.js | Build sortable, filterable table | 2026-07-22 | ✅ [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend-advanced/issues/86) |
+| Frontend Advanced — Next.js | Create pagination component | 2026-07-22 | ✅ [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend-advanced/issues/85) |
 | Frontend Engineering | Simple Tailwind page | 2026-06-11 | ✅  |
 
 ## How This Profile Is Verified
