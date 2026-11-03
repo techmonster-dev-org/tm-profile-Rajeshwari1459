@@ -1,6 +1,6 @@
 # Rajeshwari1459 — Verified Developer Profile
 
-> Certified by TechMonster · Profile updated 2026-10-27
+> Certified by TechMonster · Profile updated 2026-11-03
 
 ## Tracks
 
@@ -8,12 +8,13 @@
 |---|---|---|---|
 | Frontend Engineering | [░░░░░░░░░░░░░░░] 1% | 🔵 On Track | [→ Full breakdown](./frontend/README.md) |
 | Frontend Advanced — Next.js | [░░░░░░░░░░░░░░░] 3% | 🔵 On Track | [→ Full breakdown](./frontend-advanced/README.md) |
-| Python Core (Beginner to Advanced) | [░░░░░░░░░░░░░░░] 0% | 🔵 On Track | [→ Full breakdown](./python-core/README.md) |
+| Python Core (Beginner to Advanced) | [░░░░░░░░░░░░░░░] 2% | 🔵 On Track | [→ Full breakdown](./python-core/README.md) |
 
 ## Recent Verified Projects
 
 | Track | Project | Reviewed | |
 |---|---|---|---|
+| Python Core (Beginner to Advanced) | Build an interactive command-line unit converter to learn Python's core types, type conversion, functions, conditionals, loops, and exception handling. | 2026-11-03 | ✅ [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-python-core/issues/12) |
 | Frontend Advanced — Next.js | Create card layout component | 2026-07-22 | ✅ [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend-advanced/issues/87) |
 | Frontend Advanced — Next.js | Build sortable, filterable table | 2026-07-22 | ✅ [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend-advanced/issues/86) |
 | Frontend Advanced — Next.js | Create pagination component | 2026-07-22 | ✅ [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend-advanced/issues/85) |
