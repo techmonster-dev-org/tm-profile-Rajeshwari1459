@@ -1,6 +1,6 @@
 {
   "student": "Rajeshwari1459",
-  "generatedAt": "2026-11-03T00:09:31.9289920Z",
+  "generatedAt": "2026-11-04T00:10:27.5814084Z",
   "verifiedBy": "techmonster-dev",
   "tracks": [
     {
@@ -22,9 +22,9 @@
     {
       "track": "python-core",
       "trackTitle": "Python Core (Beginner to Advanced)",
-      "progressPct": 2,
+      "progressPct": 6,
       "status": "on-track",
-      "verifiedCount": 1,
+      "verifiedCount": 3,
       "detailUrl": "./python-core/verified-record.json"
     }
   ],
