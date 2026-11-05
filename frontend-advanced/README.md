@@ -17,7 +17,7 @@
 | Implement Keycloak integration with protected routes and authentication state management | ⏳ Needs work | ✅ Verified | 2026-11-04 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend-advanced/issues/110) |
 | Create a Next.js project with TypeScript, Tailwind CSS, and understand the App Router structure | ⏳ Needs work | ✅ Verified | 2026-11-04 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend-advanced/issues/106) |
 | Implement dark/light theme with persistence and theme switching | ⏳ Needs work | ⚠️ Unverified | 2026-11-04 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend-advanced/issues/114) |
-| Build toast notification system for success, error, and info messages | ⬜ Not started | — | — | — |
+| Build toast notification system for success, error, and info messages | ⏳ Needs work | ⚠️ Unverified | 2026-11-05 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend-advanced/issues/185) |
 | Configure TanStack Query (React Query) with persistence and devtools for efficient data fetching | ✅ Pass | ✅ Verified | 2026-11-04 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend-advanced/issues/109) |
 | Set up multi-environment configuration with API endpoints and environment variables | ⏳ Needs work | ⚠️ Unverified | 2026-11-04 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend-advanced/issues/107) |
 
@@ -27,7 +27,7 @@
 |---|---|---|---|---|
 | Build interactive client components with hooks and browser APIs | ⏳ Needs work | ⚠️ Unverified | 2026-11-04 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend-advanced/issues/122) |
 | Create server components with data fetching and server-side rendering | ⏳ Needs work | ⚠️ Unverified | 2026-11-04 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend-advanced/issues/121) |
-| Organize routes with (group) folders without affecting URL structure | ⬜ Not started | — | — | — |
+| Organize routes with (group) folders without affecting URL structure | ⏳ Needs work | ✅ Verified | 2026-11-05 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend-advanced/issues/186) |
 | Build @parallel slot routing for simultaneous route rendering | ⏳ Needs work | ⚠️ Unverified | 2026-11-04 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend-advanced/issues/118) |
 | Build [slug] dynamic pages with params and understand dynamic routing | ✅ Pass | ✅ Verified | 2026-11-04 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend-advanced/issues/115) |
 | Build API route handlers for server-side logic and API endpoints | ⏳ Needs work | ⚠️ Unverified | 2026-11-04 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend-advanced/issues/120) |
@@ -42,7 +42,7 @@
 |---|---|---|---|---|
 | Manage complex form state with Context API | ⏳ Needs work | ✅ Verified | 2026-11-04 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend-advanced/issues/128) |
 | Implement draft saving functionality with debouncing | ⏳ Needs work | ✅ Verified | 2026-11-04 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend-advanced/issues/129) |
-| Build image upload with preview, crop, and resize capabilities | ⬜ Not started | — | — | — |
+| Build image upload with preview, crop, and resize capabilities | ⏳ Needs work | ⚠️ Unverified | 2026-11-05 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend-advanced/issues/187) |
 | Build form reset functionality and clear form data | ⏳ Needs work | ⚠️ Unverified | 2026-11-04 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend-advanced/issues/130) |
 | Build wizard-style multi-step form with progress indicator | ⏳ Needs work | ✅ Verified | 2026-11-04 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend-advanced/issues/125) |
 | Create form with validation using react-hook-form and form handling | ⏳ Needs work | ⚠️ Unverified | 2026-11-04 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend-advanced/issues/124) |
