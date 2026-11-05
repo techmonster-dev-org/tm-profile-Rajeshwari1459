@@ -18,7 +18,7 @@
 | Implement classic exercises (FizzBuzz, a multiplication table, a simple text menu with match/case, and prime detection) to master conditionals, loops, and structural pattern matching. | ⬜ Not started | — | — | — |
 | Build a guess-the-number game with hints, attempt limits, and replay to master numbers, the random module, comparison operators, and while loops. | ✅ Pass | ✅ Verified | 2026-11-04 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-python-core/issues/22) |
 | Clean a messy list of records using list, dict, and set comprehensions, learning when a comprehension improves clarity and when it hurts it. | ⬜ Not started | — | — | — |
-| Build an in-memory to-do manager with add/list/complete/remove to master Python lists, tuples, indexing, iteration, and mutation vs immutability. | ⏳ Needs work | ✅ Verified | 2026-11-04 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-python-core/issues/23) |
+| Build an in-memory to-do manager with add/list/complete/remove to master Python lists, tuples, indexing, iteration, and mutation vs immutability. | ⏳ Needs work | ✅ Verified | 2026-11-05 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-python-core/issues/24) |
 
 ## Idiomatic & Functional Python
 
