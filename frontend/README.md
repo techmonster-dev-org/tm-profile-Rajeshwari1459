@@ -1,106 +1,106 @@
 # Frontend Engineering — Full Track Record
 
-**Rajeshwari1459-frontend** · [← Back to profile](../README.md) · Updated 2026-11-04
+**Rajeshwari1459-frontend** · [← Back to profile](../README.md) · Updated 2026-11-05
 
 ## Progress
 
-[░░░░░░░░░░░░░░░░░░░░] 1%   (1 of 71 projects completed)
+[██████░░░░░░░░░░░░░░] 28%   (20 of 71 projects completed)
 
 ## Computer & Git Basics
 
 | Project | Score | Understanding | Reviewed | Feedback |
 |---|---|---|---|---|
-| Portfolio homepage written in Markdown | ⏳ Needs work | ⚠️ Unverified | 2026-06-11 | — |
-| Create notes + demo screen recording | ⬜ Not started | ⚠️ Unverified | 2026-10-27 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend/issues/9) |
-| Repo with a branch workflow demo | ⬜ Not started | — | — | — |
-| Build a folder structure + `work/README.md` | ⏳ Needs work | ✅ Verified | 2026-06-11 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend/issues/3) |
-| Clone + commit via the VS Code Source Control panel | ⏳ Needs work | ⚠️ Unverified | 2026-06-11 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend/issues/4) |
+| Build a folder structure + `work/README.md` | ⏳ Needs work | ⚠️ Unverified | 2026-11-04 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend/issues/13) |
 | Create a `work/README.md` personal page | ⬜ Not started | ⚠️ Unverified | 2026-10-27 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend/issues/10) |
+| Create notes + demo screen recording | ⬜ Not started | ⚠️ Unverified | 2026-10-27 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend/issues/9) |
+| Clone + commit via the VS Code Source Control panel | ⏳ Needs work | ⚠️ Unverified | 2026-06-11 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend/issues/4) |
 | Push your first repo to GitHub | ⏳ Needs work | ⚠️ Unverified | 2026-10-27 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend/issues/11) |
+| Repo with a branch workflow demo | ⬜ Not started | — | — | — |
+| Portfolio homepage written in Markdown | ⏳ Needs work | ⚠️ Unverified | 2026-11-04 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend/issues/12) |
 
 ## HTML & CSS
 
 | Project | Score | Understanding | Reviewed | Feedback |
 |---|---|---|---|---|
-| 3x3 photo gallery | ⏳ Needs work | ✅ Verified | 2026-06-11 | — |
-| Custom color theme | ⏳ Needs work | ⚠️ Unverified | 2026-06-11 | — |
-| Dark/light theme toggle | ⏳ Needs work | ✅ Verified | 2026-06-11 | — |
-| Tailwind navbar + hero | ⏳ Needs work | ⚠️ Unverified | 2026-06-11 | — |
-| Button hover animation | ⏳ Needs work | ✅ Verified | 2026-06-11 | — |
-| Profile + social links layout | ⏳ Needs work | ⚠️ Unverified | 2026-06-11 | — |
-| Responsive landing page | ⏳ Needs work | ⚠️ Unverified | 2026-06-11 | — |
-| Contact form | ⏳ Needs work | ✅ Verified | 2026-06-11 | — |
-| Styled resume page | ⏳ Needs work | ✅ Verified | 2026-06-11 | — |
-| Personal bio page | ⏳ Needs work | ✅ Verified | 2026-06-11 | — |
-| Pricing page | ⏳ Needs work | ⚠️ Unverified | 2026-06-11 | — |
-| Simple Tailwind page | ✅ Pass | ✅ Verified | 2026-06-11 | — |
+| Pricing page | ⏳ Needs work | ⚠️ Unverified | 2026-11-04 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend/issues/23) |
+| Personal bio page | ✅ Pass | ✅ Verified | 2026-11-04 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend/issues/14) |
+| Button hover animation | ⏳ Needs work | ✅ Verified | 2026-11-04 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend/issues/20) |
+| Tailwind navbar + hero | ⏳ Needs work | ⚠️ Unverified | 2026-11-04 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend/issues/22) |
+| Custom color theme | ⏳ Needs work | ✅ Verified | 2026-11-04 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend/issues/25) |
+| 3x3 photo gallery | ✅ Pass | ✅ Verified | 2026-11-04 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend/issues/17) |
+| Profile + social links layout | ⏳ Needs work | ⚠️ Unverified | 2026-11-04 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend/issues/16) |
+| Dark/light theme toggle | ✅ Pass | ✅ Verified | 2026-11-04 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend/issues/24) |
+| Simple Tailwind page | ✅ Pass | ✅ Verified | 2026-11-04 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend/issues/21) |
+| Contact form | ✅ Pass | ✅ Verified | 2026-11-04 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend/issues/19) |
+| Styled resume page | ⏳ Needs work | ⚠️ Unverified | 2026-11-04 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend/issues/15) |
+| Responsive landing page | ⏳ Needs work | ⚠️ Unverified | 2026-11-04 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend/issues/18) |
 
 ## JavaScript Fundamentals
 
 | Project | Score | Understanding | Reviewed | Feedback |
 |---|---|---|---|---|
-| Calculator | ⬜ Not started | — | — | — |
-| Digital clock | ⬜ Not started | — | — | — |
-| Portfolio website | ⬜ Not started | — | — | — |
-| Color flipper | ⬜ Not started | — | — | — |
-| Expense tracker | ⬜ Not started | — | — | — |
-| Data visualization dashboard | ⬜ Not started | — | — | — |
-| Typing test app | ⬜ Not started | — | — | — |
-| Event propagation demo | ⬜ Not started | — | — | — |
-| BMI calculator | ⬜ Not started | — | — | — |
+| Counter with save history | ⏳ Needs work | ⚠️ Unverified | 2026-11-04 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend/issues/33) |
+| Data visualization dashboard | ⏳ Needs work | ✅ Verified | 2026-11-05 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend/issues/75) |
+| Digital clock | ⏳ Needs work | ⚠️ Unverified | 2026-11-04 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend/issues/30) |
+| Quiz app | ✅ Pass | ✅ Verified | 2026-11-04 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend/issues/39) |
+| Notes app | ⏳ Needs work | ⚠️ Unverified | 2026-11-04 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend/issues/32) |
+| User preferences app | ⏳ Needs work | ⚠️ Unverified | 2026-11-04 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend/issues/47) |
+| Weather app (public API) | ⏳ Needs work | ⚠️ Unverified | 2026-11-04 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend/issues/36) |
+| Event propagation demo | ⏳ Needs work | ⚠️ Unverified | 2026-11-04 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend/issues/46) |
+| Search with debounce | ⏳ Needs work | ⚠️ Unverified | 2026-11-04 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend/issues/45) |
 | Movie search (API) | ⬜ Not started | — | — | — |
-| Todo list (localStorage) | ⬜ Not started | — | — | — |
-| Weather app (public API) | ⬜ Not started | — | — | — |
-| Password generator | ⬜ Not started | — | — | — |
-| Dictionary app (API) | ⬜ Not started | — | — | — |
-| Drag & drop todo board | ⬜ Not started | — | — | — |
-| Search with debounce | ⬜ Not started | — | — | — |
-| Counter with save history | ⬜ Not started | — | — | — |
-| User preferences app | ⬜ Not started | — | — | — |
-| Stopwatch | ⬜ Not started | — | — | — |
-| Notes app | ⬜ Not started | — | — | — |
-| Random quote generator | ⬜ Not started | — | — | — |
-| Image slider | ⬜ Not started | — | — | — |
-| Quiz app | ⬜ Not started | — | — | — |
+| Password generator | ⏳ Needs work | ⚠️ Unverified | 2026-11-04 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend/issues/31) |
+| Color flipper | ✅ Pass | ✅ Verified | 2026-11-04 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend/issues/28) |
+| Expense tracker | ✅ Pass | ✅ Verified | 2026-11-04 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend/issues/38) |
+| Calculator | ✅ Pass | ✅ Verified | 2026-11-04 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend/issues/26) |
+| BMI calculator | ⏳ Needs work | ✅ Verified | 2026-11-04 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend/issues/35) |
+| Dictionary app (API) | ✅ Pass | ✅ Verified | 2026-11-04 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend/issues/40) |
+| Drag & drop todo board | ⏳ Needs work | ⚠️ Unverified | 2026-11-04 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend/issues/43) |
+| Todo list (localStorage) | ⏳ Needs work | ⚠️ Unverified | 2026-11-04 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend/issues/29) |
+| Portfolio website | ⏳ Needs work | ⚠️ Unverified | 2026-11-04 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend/issues/44) |
+| Stopwatch | ⏳ Needs work | ⚠️ Unverified | 2026-11-04 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend/issues/37) |
+| Image slider | ⏳ Needs work | ⚠️ Unverified | 2026-11-04 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend/issues/41) |
+| Random quote generator | ✅ Pass | ✅ Verified | 2026-11-04 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend/issues/27) |
+| Typing test app | ⏳ Needs work | ⚠️ Unverified | 2026-11-04 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend/issues/34) |
 
 ## TypeScript
 
 | Project | Score | Understanding | Reviewed | Feedback |
 |---|---|---|---|---|
-| TypeScript Todo App | ⬜ Not started | — | — | — |
-| Weather app in TS | ⬜ Not started | — | — | — |
-| TS utility functions library | ⬜ Not started | — | — | — |
-| API fetch + TS typing | ⬜ Not started | — | — | — |
-| Form validation with TS | ⬜ Not started | — | — | — |
-| Rebuild quiz app in TS | ⬜ Not started | — | — | — |
-| Rebuild expense tracker in TS | ⬜ Not started | — | — | — |
-| Data types playground | ⬜ Not started | — | — | — |
-| Convert JS Calculator to TS | ⬜ Not started | — | — | — |
-| Portfolio rebuild in TS | ⬜ Not started | — | — | — |
+| Rebuild expense tracker in TS | ⏳ Needs work | ⚠️ Unverified | 2026-11-04 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend/issues/54) |
+| Convert JS Calculator to TS | ✅ Pass | ✅ Verified | 2026-11-04 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend/issues/48) |
+| Data types playground | ✅ Pass | ✅ Verified | 2026-11-04 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend/issues/50) |
+| API fetch + TS typing | ⏳ Needs work | ⚠️ Unverified | 2026-11-04 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend/issues/52) |
+| TypeScript Todo App | ⏳ Needs work | ⚠️ Unverified | 2026-11-04 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend/issues/49) |
+| Rebuild quiz app in TS | ⏳ Needs work | ⚠️ Unverified | 2026-11-04 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend/issues/53) |
+| Weather app in TS | ⏳ Needs work | ⚠️ Unverified | 2026-11-04 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend/issues/56) |
+| TS utility functions library | ⏳ Needs work | ⚠️ Unverified | 2026-11-04 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend/issues/55) |
+| Portfolio rebuild in TS | ⏳ Needs work | ⚠️ Unverified | 2026-11-04 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend/issues/57) |
+| Form validation with TS | ⏳ Needs work | ⚠️ Unverified | 2026-11-04 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend/issues/51) |
 
 ## React & Next.js
 
 | Project | Score | Understanding | Reviewed | Feedback |
 |---|---|---|---|---|
-| Blog dynamic route | ⬜ Not started | — | — | — |
-| Recipe finder | ⬜ Not started | — | — | — |
-| Movie search | ⬜ Not started | — | — | — |
-| First Next.js app | ⬜ Not started | — | — | — |
-| Pagination list | ⬜ Not started | — | — | — |
-| Accordion | ⬜ Not started | — | — | — |
-| Notes app | ⬜ Not started | — | — | — |
-| Form builder | ⬜ Not started | — | — | — |
-| Weather app in Next | ⬜ Not started | — | — | — |
-| Todo list | ⬜ Not started | — | — | — |
-| Tabs UI | ⬜ Not started | — | — | — |
-| First React app | ⬜ Not started | — | — | — |
+| First Next.js app | ✅ Pass | ✅ Verified | 2026-11-04 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend/issues/69) |
+| Custom hooks library | ⏳ Needs work | ⚠️ Unverified | 2026-11-04 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend/issues/73) |
+| Todo list | ⏳ Needs work | ⚠️ Unverified | 2026-11-04 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend/issues/60) |
+| Weather app in Next | ✅ Pass | ✅ Verified | 2026-11-04 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend/issues/71) |
+| Counter app | ⏳ Needs work | ⚠️ Unverified | 2026-11-04 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend/issues/59) |
+| Weather app | ⏳ Needs work | ⚠️ Unverified | 2026-11-04 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend/issues/61) |
+| First React app | ⏳ Needs work | ⚠️ Unverified | 2026-11-04 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend/issues/58) |
+| Blog dynamic route | ⏳ Needs work | ⚠️ Unverified | 2026-11-04 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend/issues/70) |
+| Notes app | ✅ Pass | ✅ Verified | 2026-11-05 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend/issues/76) |
+| News feed (API) | ⏳ Needs work | ⚠️ Unverified | 2026-11-04 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend/issues/72) |
+| Accordion | ⬜ Not started | ⚠️ Unverified | 2026-11-04 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend/issues/68) |
+| Tabs UI | ⏳ Needs work | ⚠️ Unverified | 2026-11-04 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend/issues/67) |
 | Deploy your app | ⬜ Not started | — | — | — |
-| Weather app | ⬜ Not started | — | — | — |
-| Image gallery | ⬜ Not started | — | — | — |
-| Custom hooks library | ⬜ Not started | — | — | — |
-| Counter app | ⬜ Not started | — | — | — |
-| News feed (API) | ⬜ Not started | — | — | — |
-| GitHub user finder | ⬜ Not started | — | — | — |
+| Pagination list | ⏳ Needs work | ✅ Verified | 2026-11-04 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend/issues/66) |
+| Recipe finder | ✅ Pass | ✅ Verified | 2026-11-04 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend/issues/64) |
+| Form builder | ⏳ Needs work | ⚠️ Unverified | 2026-11-04 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend/issues/74) |
+| GitHub user finder | ✅ Pass | ✅ Verified | 2026-11-04 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend/issues/63) |
+| Movie search | ✅ Pass | ✅ Verified | 2026-11-04 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend/issues/62) |
+| Image gallery | ✅ Pass | ✅ Verified | 2026-11-04 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend/issues/65) |
 
 ---
 *Machine-readable proof with commit SHA anchors: [verified-record.json](./verified-record.json)*
