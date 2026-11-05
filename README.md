@@ -1,24 +1,24 @@
 # Rajeshwari1459 — Verified Developer Profile
 
-> Certified by TechMonster · Profile updated 2026-11-04
+> Certified by TechMonster · Profile updated 2026-11-05
 
 ## Tracks
 
 | Track | Progress | Status | Detail |
 |---|---|---|---|
-| Frontend Engineering | [░░░░░░░░░░░░░░░] 1% | 🔵 On Track | [→ Full breakdown](./frontend/README.md) |
-| Frontend Advanced — Next.js | [░░░░░░░░░░░░░░░] 3% | 🔵 On Track | [→ Full breakdown](./frontend-advanced/README.md) |
+| Frontend Engineering | [████░░░░░░░░░░░] 28% | 🟡 Needs a Nudge | [→ Full breakdown](./frontend/README.md) |
+| Frontend Advanced — Next.js | [████░░░░░░░░░░░] 24% | 🟡 Needs a Nudge | [→ Full breakdown](./frontend-advanced/README.md) |
 | Python Core (Beginner to Advanced) | [█░░░░░░░░░░░░░░] 6% | 🔵 On Track | [→ Full breakdown](./python-core/README.md) |
 
 ## Recent Verified Projects
 
 | Track | Project | Reviewed | |
 |---|---|---|---|
-| Python Core (Beginner to Advanced) | Build a guess-the-number game with hints, attempt limits, and replay to master numbers, the random module, comparison operators, and while loops. | 2026-11-04 | ✅ [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-python-core/issues/18) |
-| Python Core (Beginner to Advanced) | Build a small library of text utilities (slugify, word count, title-case, reverse, palindrome check) to master Python strings, slicing, methods, and f-string formatting. | 2026-11-04 | ✅ [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-python-core/issues/17) |
-| Python Core (Beginner to Advanced) | Build an interactive command-line unit converter to learn Python's core types, type conversion, functions, conditionals, loops, and exception handling. | 2026-11-04 | ✅ [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-python-core/issues/16) |
-| Frontend Advanced — Next.js | Create card layout component | 2026-07-22 | ✅ [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend-advanced/issues/87) |
-| Frontend Advanced — Next.js | Build sortable, filterable table | 2026-07-22 | ✅ [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend-advanced/issues/86) |
+| Frontend Engineering | Notes app | 2026-11-05 | ✅ [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend/issues/76) |
+| Frontend Advanced — Next.js | Create detail page with related items | 2026-11-04 | ✅ [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend-advanced/issues/184) |
+| Frontend Advanced — Next.js | Build drag and drop interface | 2026-11-04 | ✅ [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend-advanced/issues/171) |
+| Frontend Advanced — Next.js | Handle file downloads from API | 2026-11-04 | ✅ [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend-advanced/issues/165) |
+| Frontend Advanced — Next.js | Implement copy functionality | 2026-11-04 | ✅ [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend-advanced/issues/164) |
 
 ## How This Profile Is Verified
 
