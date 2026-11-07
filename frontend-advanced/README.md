@@ -68,7 +68,7 @@
 | Cancel in-flight requests | ⏳ Needs work | ❌ Failed | 2026-11-04 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend-advanced/issues/142) |
 | Handle API errors gracefully | ⏳ Needs work | ⚠️ Unverified | 2026-11-04 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend-advanced/issues/143) |
 | Handle cache invalidation after mutations | ⏳ Needs work | ⚠️ Unverified | 2026-11-04 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend-advanced/issues/138) |
-| Show loading states during API calls | ⬜ Not started | — | — | — |
+| Show loading states during API calls | ⏳ Needs work | ⚠️ Unverified | 2026-11-07 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend-advanced/issues/188) |
 | Update data with mutations | ⏳ Needs work | ✅ Verified | 2026-11-04 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend-advanced/issues/133) |
 
 ## Reusable UI Component Library
@@ -103,7 +103,7 @@
 | Build image gallery with lightbox | ⏳ Needs work | ⚠️ Unverified | 2026-11-04 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend-advanced/issues/166) |
 | Integrate Leaflet maps | ⏳ Needs work | ⚠️ Unverified | 2026-11-04 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend-advanced/issues/160) |
 | Handle file downloads from API | ✅ Pass | ✅ Verified | 2026-11-04 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend-advanced/issues/165) |
-| Generate PDFs with jsPDF | ⬜ Not started | — | — | — |
+| Generate PDFs with jsPDF | ⏳ Needs work | ⚠️ Unverified | 2026-11-07 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend-advanced/issues/189) |
 | Export data to spreadsheet format | ⬜ Not started | — | — | — |
 | Build date picker component | ⏳ Needs work | ⚠️ Unverified | 2026-11-04 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend-advanced/issues/169) |
 | Implement copy functionality | ✅ Pass | ✅ Verified | 2026-11-04 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend-advanced/issues/164) |
@@ -115,7 +115,7 @@
 | Project | Score | Understanding | Reviewed | Feedback |
 |---|---|---|---|---|
 | Implement debounced search/input | ⏳ Needs work | ⚠️ Unverified | 2026-11-04 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend-advanced/issues/176) |
-| Use React.memo and useMemo | ⏳ Needs work | ✅ Verified | 2026-07-28 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend-advanced/issues/97) |
+| Use React.memo and useMemo | ⏳ Needs work | ⚠️ Unverified | 2026-11-07 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend-advanced/issues/190) |
 | Throttle scroll/resize events | ⏳ Needs work | ⚠️ Unverified | 2026-11-04 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend-advanced/issues/177) |
 | Add performance metrics | ⏳ Needs work | ⚠️ Unverified | 2026-11-04 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend-advanced/issues/180) |
 | Manage state in URL query params | ⏳ Needs work | ✅ Verified | 2026-11-04 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend-advanced/issues/175) |
