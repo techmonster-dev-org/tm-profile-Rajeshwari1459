@@ -1,6 +1,6 @@
 # Rajeshwari1459 — Verified Developer Profile
 
-> Certified by TechMonster · Profile updated 2026-11-12
+> Certified by TechMonster · Profile updated 2026-11-13
 
 ## Tracks
 
@@ -8,17 +8,17 @@
 |---|---|---|---|
 | Frontend Engineering | [████░░░░░░░░░░░] 28% | 🟡 Needs a Nudge | [→ Full breakdown](./frontend/README.md) |
 | Frontend Advanced — Next.js | [████░░░░░░░░░░░] 24% | 🟡 Needs a Nudge | [→ Full breakdown](./frontend-advanced/README.md) |
-| Python Core (Beginner to Advanced) | [█░░░░░░░░░░░░░░] 8% | 🔵 On Track | [→ Full breakdown](./python-core/README.md) |
+| Python Core (Beginner to Advanced) | [██░░░░░░░░░░░░░] 12% | 🔵 On Track | [→ Full breakdown](./python-core/README.md) |
 
 ## Recent Verified Projects
 
 | Track | Project | Reviewed | |
 |---|---|---|---|
+| Python Core (Beginner to Advanced) | Clean a messy list of records using list, dict, and set comprehensions, learning when a comprehension improves clarity and when it hurts it. | 2026-11-13 | ✅ [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-python-core/issues/38) |
+| Python Core (Beginner to Advanced) | Build an in-memory to-do manager with add/list/complete/remove to master Python lists, tuples, indexing, iteration, and mutation vs immutability. | 2026-11-13 | ✅ [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-python-core/issues/37) |
 | Python Core (Beginner to Advanced) | Build a searchable contact book to master dictionaries (key/value lookup), sets (uniqueness and membership), and why hashing makes them fast. | 2026-11-12 | ✅ [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-python-core/issues/31) |
 | Python Core (Beginner to Advanced) | Build an interactive command-line unit converter to learn Python's core types, type conversion, functions, conditionals, loops, and exception handling. | 2026-11-12 | ✅ [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-python-core/issues/29) |
 | Frontend Engineering | Notes app | 2026-11-05 | ✅ [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend/issues/76) |
-| Frontend Advanced — Next.js | Create detail page with related items | 2026-11-04 | ✅ [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend-advanced/issues/184) |
-| Frontend Advanced — Next.js | Build drag and drop interface | 2026-11-04 | ✅ [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-frontend-advanced/issues/171) |
 
 ## How This Profile Is Verified
 
