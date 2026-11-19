@@ -51,7 +51,7 @@
     "Standard Library & I/O",
     "Language Fundamentals"
   ],
-  "generatedAt": "2026-11-19T00:11:33.5305134Z",
+  "generatedAt": "2026-11-19T00:23:10.6466203Z",
   "verifiedBy": "techmonster-dev",
   "progressPct": 19,
   "status": "on-track",
@@ -92,9 +92,9 @@
       "phaseTitle": "Language Fundamentals",
       "score": "pass",
       "understanding": "verified",
-      "reviewedAt": "2026-11-13T00:08:02.4913994Z",
+      "reviewedAt": "2026-11-19T00:21:05.8826827Z",
       "commitAnchor": "6752fb313064282d99c097db1ed250c338ea804e",
-      "feedbackUrl": "https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-python-core/issues/37"
+      "feedbackUrl": "https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-python-core/issues/49"
     },
     {
       "project": "Build a searchable contact book to master dictionaries (key/value lookup), sets (uniqueness and membership), and why hashing makes them fast.",
@@ -102,9 +102,9 @@
       "phaseTitle": "Language Fundamentals",
       "score": "pass",
       "understanding": "verified",
-      "reviewedAt": "2026-11-12T00:11:19.4550336Z",
+      "reviewedAt": "2026-11-19T00:22:08.5445603Z",
       "commitAnchor": "6752fb313064282d99c097db1ed250c338ea804e",
-      "feedbackUrl": "https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-python-core/issues/31"
+      "feedbackUrl": "https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-python-core/issues/50"
     },
     {
       "project": "Clean a messy list of records using list, dict, and set comprehensions, learning when a comprehension improves clarity and when it hurts it.",
@@ -112,9 +112,9 @@
       "phaseTitle": "Language Fundamentals",
       "score": "pass",
       "understanding": "verified",
-      "reviewedAt": "2026-11-13T00:09:03.4702111Z",
+      "reviewedAt": "2026-11-19T00:22:54.9568502Z",
       "commitAnchor": "6752fb313064282d99c097db1ed250c338ea804e",
-      "feedbackUrl": "https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-python-core/issues/38"
+      "feedbackUrl": "https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-python-core/issues/51"
     },
     {
       "project": "Implement classic exercises (FizzBuzz, a multiplication table, a simple text menu with match/case, and prime detection) to master conditionals, loops, and structural pattern matching.",
