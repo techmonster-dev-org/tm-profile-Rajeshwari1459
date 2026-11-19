@@ -14,11 +14,11 @@
 
 | Track | Project | Reviewed | |
 |---|---|---|---|
+| Python Core (Beginner to Advanced) | Clean a messy list of records using list, dict, and set comprehensions, learning when a comprehension improves clarity and when it hurts it. | 2026-11-19 | ✅ [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-python-core/issues/51) |
+| Python Core (Beginner to Advanced) | Build a searchable contact book to master dictionaries (key/value lookup), sets (uniqueness and membership), and why hashing makes them fast. | 2026-11-19 | ✅ [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-python-core/issues/50) |
+| Python Core (Beginner to Advanced) | Build an in-memory to-do manager with add/list/complete/remove to master Python lists, tuples, indexing, iteration, and mutation vs immutability. | 2026-11-19 | ✅ [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-python-core/issues/49) |
 | Python Core (Beginner to Advanced) | Build a guess-the-number game with hints, attempt limits, and replay to master numbers, the random module, comparison operators, and while loops. | 2026-11-19 | ✅ [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-python-core/issues/48) |
 | Python Core (Beginner to Advanced) | Build a small library of text utilities (slugify, word count, title-case, reverse, palindrome check) to master Python strings, slicing, methods, and f-string formatting. | 2026-11-19 | ✅ [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-python-core/issues/47) |
-| Python Core (Beginner to Advanced) | Build an interactive command-line unit converter to learn Python's core types, type conversion, functions, conditionals, loops, and exception handling. | 2026-11-19 | ✅ [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-python-core/issues/46) |
-| Python Core (Beginner to Advanced) | Implement classic exercises (FizzBuzz, a multiplication table, a simple text menu with match/case, and prime detection) to master conditionals, loops, and structural pattern matching. | 2026-11-18 | ✅ [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-python-core/issues/44) |
-| Python Core (Beginner to Advanced) | Build a CSV row transformer to master tuple/dict unpacking, starred assignment, zip, enumerate, and dict merging — the idioms that make Python code concise. | 2026-11-17 | ✅ [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-python-core/issues/42) |
 
 ## How This Profile Is Verified
 
