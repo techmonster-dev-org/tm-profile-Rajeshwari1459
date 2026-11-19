@@ -10,15 +10,15 @@
 
 | Project | Score | Understanding | Reviewed | Feedback |
 |---|---|---|---|---|
-| Build an in-memory to-do manager with add/list/complete/remove to master Python lists, tuples, indexing, iteration, and mutation vs immutability. | ✅ Pass | ✅ Verified | 2026-11-13 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-python-core/issues/37) |
+| Build an in-memory to-do manager with add/list/complete/remove to master Python lists, tuples, indexing, iteration, and mutation vs immutability. | ✅ Pass | ✅ Verified | 2026-11-19 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-python-core/issues/49) |
 | Build a small library of text utilities (slugify, word count, title-case, reverse, palindrome check) to master Python strings, slicing, methods, and f-string formatting. | ✅ Pass | ✅ Verified | 2026-11-19 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-python-core/issues/47) |
-| Clean a messy list of records using list, dict, and set comprehensions, learning when a comprehension improves clarity and when it hurts it. | ✅ Pass | ✅ Verified | 2026-11-13 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-python-core/issues/38) |
+| Clean a messy list of records using list, dict, and set comprehensions, learning when a comprehension improves clarity and when it hurts it. | ✅ Pass | ✅ Verified | 2026-11-19 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-python-core/issues/51) |
 | Build a guess-the-number game with hints, attempt limits, and replay to master numbers, the random module, comparison operators, and while loops. | ✅ Pass | ✅ Verified | 2026-11-19 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-python-core/issues/48) |
 | Implement classic exercises (FizzBuzz, a multiplication table, a simple text menu with match/case, and prime detection) to master conditionals, loops, and structural pattern matching. | ✅ Pass | ✅ Verified | 2026-11-18 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-python-core/issues/44) |
 | Build an interactive command-line unit converter to learn Python's core types, type conversion, functions, conditionals, loops, and exception handling. | ✅ Pass | ✅ Verified | 2026-11-19 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-python-core/issues/46) |
 | Build a reusable validation layer with custom exceptions to master try/except/else/finally, exception hierarchy, raising and chaining, and the EAFP vs LBYL styles. | ✅ Pass | ✅ Verified | 2026-11-14 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-python-core/issues/40) |
 | Build a small statistics toolkit to master function parameters, default arguments, *args/**kwargs, multiple return values, scope, and the mutable-default-argument trap. | ⏳ Needs work | ⚠️ Unverified | 2026-11-12 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-python-core/issues/34) |
-| Build a searchable contact book to master dictionaries (key/value lookup), sets (uniqueness and membership), and why hashing makes them fast. | ✅ Pass | ✅ Verified | 2026-11-12 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-python-core/issues/31) |
+| Build a searchable contact book to master dictionaries (key/value lookup), sets (uniqueness and membership), and why hashing makes them fast. | ✅ Pass | ✅ Verified | 2026-11-19 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-python-core/issues/50) |
 
 ## Idiomatic & Functional Python
 
