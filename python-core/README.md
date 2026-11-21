@@ -30,8 +30,8 @@
 | Build timing, caching, and retry decorators to learn how functions wrap other functions, why functools.wraps matters, and how decorators with arguments work. | ⏳ Needs work | ⚠️ Unverified | 2026-11-20 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-python-core/pull/52) |
 | Model structured records with dataclasses (mutable, frozen, with defaults and methods), Enums for fixed choices, and NamedTuple for lightweight immutable records. | ⬜ Not started | — | — | — |
 | Add complete type hints to a small module and verify them with mypy: built-in generics, Optional/Union, type aliases, Protocols, and Generics. | ⬜ Not started | — | — | — |
-| Build a CSV row transformer to master tuple/dict unpacking, starred assignment, zip, enumerate, and dict merging — the idioms that make Python code concise. | ✅ Pass | ✅ Verified | 2026-11-17 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-python-core/issues/42) |
-| Build a lazy log-file reader and number streams using the iterator protocol and generator functions with yield, learning lazy evaluation and memory efficiency. | ⬜ Not started | — | — | — |
+| Build a CSV row transformer to master tuple/dict unpacking, starred assignment, zip, enumerate, and dict merging — the idioms that make Python code concise. | ✅ Pass | ✅ Verified | 2026-11-21 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-python-core/issues/57) |
+| Build a lazy log-file reader and number streams using the iterator protocol and generator functions with yield, learning lazy evaluation and memory efficiency. | ⏳ Needs work | ✅ Verified | 2026-11-21 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-python-core/issues/58) |
 
 ## Object-Oriented Python & Design
 
