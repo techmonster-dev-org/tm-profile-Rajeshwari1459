@@ -1,6 +1,6 @@
 # Rajeshwari1459 — Verified Developer Profile
 
-> Certified by TechMonster · Profile updated 2026-11-20
+> Certified by TechMonster · Profile updated 2026-11-21
 
 ## Tracks
 
@@ -8,17 +8,17 @@
 |---|---|---|---|
 | Frontend Engineering | [████░░░░░░░░░░░] 28% | 🟡 Needs a Nudge | [→ Full breakdown](./frontend/README.md) |
 | Frontend Advanced — Next.js | [████░░░░░░░░░░░] 24% | 🟡 Needs a Nudge | [→ Full breakdown](./frontend-advanced/README.md) |
-| Python Core (Beginner to Advanced) | [███░░░░░░░░░░░░] 19% | 🔵 On Track | [→ Full breakdown](./python-core/README.md) |
+| Python Core (Beginner to Advanced) | [███░░░░░░░░░░░░] 21% | 🔵 On Track | [→ Full breakdown](./python-core/README.md) |
 
 ## Recent Verified Projects
 
 | Track | Project | Reviewed | |
 |---|---|---|---|
+| Python Core (Beginner to Advanced) | Build a reusable validation layer with custom exceptions to master try/except/else/finally, exception hierarchy, raising and chaining, and the EAFP vs LBYL styles. | 2026-11-21 | ✅ [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-python-core/issues/55) |
+| Python Core (Beginner to Advanced) | Build a small statistics toolkit to master function parameters, default arguments, *args/**kwargs, multiple return values, scope, and the mutable-default-argument trap. | 2026-11-21 | ✅ [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-python-core/issues/54) |
+| Python Core (Beginner to Advanced) | Implement classic exercises (FizzBuzz, a multiplication table, a simple text menu with match/case, and prime detection) to master conditionals, loops, and structural pattern matching. | 2026-11-21 | ✅ [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-python-core/issues/53) |
 | Python Core (Beginner to Advanced) | Clean a messy list of records using list, dict, and set comprehensions, learning when a comprehension improves clarity and when it hurts it. | 2026-11-19 | ✅ [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-python-core/issues/51) |
 | Python Core (Beginner to Advanced) | Build a searchable contact book to master dictionaries (key/value lookup), sets (uniqueness and membership), and why hashing makes them fast. | 2026-11-19 | ✅ [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-python-core/issues/50) |
-| Python Core (Beginner to Advanced) | Build an in-memory to-do manager with add/list/complete/remove to master Python lists, tuples, indexing, iteration, and mutation vs immutability. | 2026-11-19 | ✅ [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-python-core/issues/49) |
-| Python Core (Beginner to Advanced) | Build a guess-the-number game with hints, attempt limits, and replay to master numbers, the random module, comparison operators, and while loops. | 2026-11-19 | ✅ [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-python-core/issues/48) |
-| Python Core (Beginner to Advanced) | Build a small library of text utilities (slugify, word count, title-case, reverse, palindrome check) to master Python strings, slicing, methods, and f-string formatting. | 2026-11-19 | ✅ [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-python-core/issues/47) |
 
 ## How This Profile Is Verified
 
