@@ -24,13 +24,13 @@
 
 | Project | Score | Understanding | Reviewed | Feedback |
 |---|---|---|---|---|
-| Add complete type hints to a small module and verify them with mypy: built-in generics, Optional/Union, type aliases, Protocols, and Generics. | ⬜ Not started | — | — | — |
-| Model structured records with dataclasses (mutable, frozen, with defaults and methods), Enums for fixed choices, and NamedTuple for lightweight immutable records. | ⬜ Not started | — | — | — |
+| Add complete type hints to a small module and verify them with mypy: built-in generics, Optional/Union, type aliases, Protocols, and Generics. | ⬜ Not started | ⚠️ Unverified | 2026-11-22 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-python-core/issues/63) |
+| Model structured records with dataclasses (mutable, frozen, with defaults and methods), Enums for fixed choices, and NamedTuple for lightweight immutable records. | ⬜ Not started | ⚠️ Unverified | 2026-11-22 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-python-core/issues/64) |
 | Build configurable function factories and pipelines to master closures, functions as values, higher-order functions, and lambda — the foundation under decorators and callbacks. | ⬜ Not started | ⚠️ Unverified | 2026-11-22 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-python-core/issues/60) |
 | Process data with map, filter, functools.reduce, functools.partial, and the operator module — and learn when these beat a comprehension and when they don't. | ⬜ Not started | ⚠️ Unverified | 2026-11-22 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-python-core/issues/61) |
 | Build timing, caching, and retry decorators to learn how functions wrap other functions, why functools.wraps matters, and how decorators with arguments work. | ✅ Pass | ✅ Verified | 2026-11-22 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-python-core/issues/59) |
 | Build a CSV row transformer to master tuple/dict unpacking, starred assignment, zip, enumerate, and dict merging — the idioms that make Python code concise. | ✅ Pass | ✅ Verified | 2026-11-21 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-python-core/issues/57) |
-| Solve real problems with itertools (chain, islice, groupby, count, cycle, combinations, permutations, accumulate) to learn efficient, lazy iteration patterns. | ⬜ Not started | — | — | — |
+| Solve real problems with itertools (chain, islice, groupby, count, cycle, combinations, permutations, accumulate) to learn efficient, lazy iteration patterns. | ⬜ Not started | ⚠️ Unverified | 2026-11-22 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-python-core/issues/62) |
 | Build a lazy log-file reader and number streams using the iterator protocol and generator functions with yield, learning lazy evaluation and memory efficiency. | ⏳ Needs work | ✅ Verified | 2026-11-21 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-python-core/issues/58) |
 
 ## Object-Oriented Python & Design
