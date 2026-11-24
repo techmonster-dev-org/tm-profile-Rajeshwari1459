@@ -37,7 +37,7 @@
 
 | Project | Score | Understanding | Reviewed | Feedback |
 |---|---|---|---|---|
-| Implement Strategy, Factory, and a Pythonic Singleton/registry, learning how Python's first-class functions and modules simplify classic OO patterns. | ⬜ Not started | — | — | — |
+| Implement Strategy, Factory, and a Pythonic Singleton/registry, learning how Python's first-class functions and modules simplify classic OO patterns. | ⬜ Not started | ⚠️ Unverified | 2026-11-24 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-python-core/issues/75) |
 | Model a Car built from an Engine, Wheels, and a Logger to learn composition, delegation, and dependency injection — and when they beat inheritance. | ⬜ Not started | ⚠️ Unverified | 2026-11-24 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-python-core/issues/73) |
 | Build a Vector and a Money class implementing __repr__/__str__, __eq__/__hash__, __add__, comparison, and __len__ to learn how Python's data model makes objects behave like built-ins. | ⬜ Not started | ⚠️ Unverified | 2026-11-23 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-python-core/issues/67) |
 | Add alternative constructors and utility methods to a Date/Color class to learn @classmethod, @staticmethod, and how they differ from instance methods. | ⬜ Not started | ⚠️ Unverified | 2026-11-24 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-python-core/issues/74) |
@@ -50,7 +50,7 @@
 
 | Project | Score | Understanding | Reviewed | Feedback |
 |---|---|---|---|---|
-| Split a script into multiple modules and learn how Python's import system works: import vs from-import, absolute vs relative imports, __name__, and how sys.path resolves modules. | ⬜ Not started | — | — | — |
+| Split a script into multiple modules and learn how Python's import system works: import vs from-import, absolute vs relative imports, __name__, and how sys.path resolves modules. | ⬜ Not started | ⚠️ Unverified | 2026-11-24 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-python-core/issues/77) |
 | Use a modern tool (uv or Poetry) to resolve, lock, and reproduce dependencies, learning version constraints, lockfiles, and how dependency resolution handles conflicts. | ⬜ Not started | — | — | — |
 | Organize modules into an installable package with a src layout, __init__.py, and a clean public API, learning how real Python projects are structured. | ⬜ Not started | — | — | — |
 | Publish your package to TestPyPI with twine, then install it back with pip — the full release loop, practiced safely on the test index. | ⬜ Not started | — | — | — |
