@@ -1,6 +1,6 @@
 # Rajeshwari1459 — Verified Developer Profile
 
-> Certified by TechMonster · Profile updated 2026-11-25
+> Certified by TechMonster · Profile updated 2026-11-26
 
 ## Tracks
 
@@ -8,17 +8,17 @@
 |---|---|---|---|
 | Frontend Engineering | [████░░░░░░░░░░░] 28% | 🟡 Needs a Nudge | [→ Full breakdown](./frontend/README.md) |
 | Frontend Advanced — Next.js | [████░░░░░░░░░░░] 24% | 🟡 Needs a Nudge | [→ Full breakdown](./frontend-advanced/README.md) |
-| Python Core (Beginner to Advanced) | [███░░░░░░░░░░░░] 23% | 🔵 On Track | [→ Full breakdown](./python-core/README.md) |
+| Python Core (Beginner to Advanced) | [████░░░░░░░░░░░] 25% | 🔵 On Track | [→ Full breakdown](./python-core/README.md) |
 
 ## Recent Verified Projects
 
 | Track | Project | Reviewed | |
 |---|---|---|---|
+| Python Core (Beginner to Advanced) | Process data with map, filter, functools.reduce, functools.partial, and the operator module — and learn when these beat a comprehension and when they don't. | 2026-11-26 | ✅ [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-python-core/pull/79) |
 | Python Core (Beginner to Advanced) | Build timing, caching, and retry decorators to learn how functions wrap other functions, why functools.wraps matters, and how decorators with arguments work. | 2026-11-22 | ✅ [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-python-core/issues/59) |
 | Python Core (Beginner to Advanced) | Build a CSV row transformer to master tuple/dict unpacking, starred assignment, zip, enumerate, and dict merging — the idioms that make Python code concise. | 2026-11-21 | ✅ [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-python-core/issues/57) |
 | Python Core (Beginner to Advanced) | Build a reusable validation layer with custom exceptions to master try/except/else/finally, exception hierarchy, raising and chaining, and the EAFP vs LBYL styles. | 2026-11-21 | ✅ [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-python-core/issues/55) |
 | Python Core (Beginner to Advanced) | Build a small statistics toolkit to master function parameters, default arguments, *args/**kwargs, multiple return values, scope, and the mutable-default-argument trap. | 2026-11-21 | ✅ [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-python-core/issues/54) |
-| Python Core (Beginner to Advanced) | Implement classic exercises (FizzBuzz, a multiplication table, a simple text menu with match/case, and prime detection) to master conditionals, loops, and structural pattern matching. | 2026-11-21 | ✅ [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-python-core/issues/53) |
 
 ## How This Profile Is Verified
 
