@@ -52,9 +52,9 @@
 |---|---|---|---|---|
 | Organize modules into an installable package with a src layout, __init__.py, and a clean public API, learning how real Python projects are structured. | ⬜ Not started | ⚠️ Unverified | 2026-11-28 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-python-core/issues/82) |
 | Create isolated environments with venv, install and pin dependencies with pip and requirements.txt, and learn why isolation and reproducibility matter. | ⬜ Not started | — | — | — |
-| Write a pyproject.toml, build a wheel and sdist, and install your package locally (editable) — the modern, standardized way to package Python. | ⬜ Not started | — | — | — |
-| Use a modern tool (uv or Poetry) to resolve, lock, and reproduce dependencies, learning version constraints, lockfiles, and how dependency resolution handles conflicts. | ⬜ Not started | — | — | — |
-| Publish your package to TestPyPI with twine, then install it back with pip — the full release loop, practiced safely on the test index. | ⬜ Not started | — | — | — |
+| Write a pyproject.toml, build a wheel and sdist, and install your package locally (editable) — the modern, standardized way to package Python. | ⬜ Not started | ⚠️ Unverified | 2026-11-28 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-python-core/issues/84) |
+| Use a modern tool (uv or Poetry) to resolve, lock, and reproduce dependencies, learning version constraints, lockfiles, and how dependency resolution handles conflicts. | ⬜ Not started | ⚠️ Unverified | 2026-11-28 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-python-core/issues/86) |
+| Publish your package to TestPyPI with twine, then install it back with pip — the full release loop, practiced safely on the test index. | ⬜ Not started | ❌ Failed | 2026-11-28 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-python-core/issues/85) |
 | Split a script into multiple modules and learn how Python's import system works: import vs from-import, absolute vs relative imports, __name__, and how sys.path resolves modules. | ⬜ Not started | ⚠️ Unverified | 2026-11-24 | [→](https://github.com/techmonster-dev-org/tm-student-Rajeshwari1459-python-core/issues/77) |
 | Turn your package into an installable command-line tool using project.scripts entry points and argparse, so users can run it by name after pip install. | ⬜ Not started | — | — | — |
 
